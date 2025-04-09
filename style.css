@@ -13,7 +13,7 @@ body {
 }
 
 .hero_section {
-  background-image: url(images/developer.png);
+  background-image: url("https://epavan162.github.io/Developer-Landing-Page/images/developer.png");
   min-height: 100vh;
   background-position: center;
   background-size: cover;
@@ -86,21 +86,6 @@ body {
   background-color: #722300;
 }
 
-.contact,
-.about {
-  min-height: 300px;
-  padding: 32px;
-  color: white;
-}
-.about h2,
-.contact h2 {
-  font-size: 64px;
-  font-weight: 300;
-}
-.about p,
-.contact p {
-  margin-bottom: 20px;
-}
 
 footer {
   text-align: center;
